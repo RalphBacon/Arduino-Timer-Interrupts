@@ -1,8 +1,7 @@
-# 209 - Arduino-Timer-Interrupts
+# 209 - Arduino Timer Interrupts
 I had to show you how to do this on an Arduino (Uno/Nano/Mini) as it's a very useful technique for offloading some processes, even though I tried to use the same technique on an ESP32 - and failed, as it was not the right way to do what I wanted. But here is is!
-PCBWay Big Sale Christmas 2020 https://pcwbway.com $5 for 10 PCBs
 
-### https://youtu.be/fFrL5Vh8Dis
+### https://youtu.be/fFrL5Vh8Dis or www.youtube.com/ralphbacon video #209
 
 If you need a regularly triggered function (from every few microseconds to every few milliseconds) then this is a possible solution.
 
