@@ -17,6 +17,7 @@ http://bit.ly/YouTubeVideoList-RalphBacon
 --------
 PRODUCTS
 --------
+You can help my channel by clicking on an afilliate link before buying _anything_ from that supplier.  
 
 The 2.8" TFT touch screen used in my demo for just $6.66 (plus $2.05 shipping) or from USA & UK direct:  
 2.8 Inch ILI9341 240x320 SPI TFT LCD Display Touch Panel SPI Serial Port Module  
